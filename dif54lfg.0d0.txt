@@ -1,0 +1,191 @@
+﻿First commit
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	new file:   bib/casella1996rao.txt
+#	new file:   bib/harati12applications.txt
+#	new file:   bib/lee09unsupervised.txt
+#	new file:   bib/rosen2004author.txt
+#	new file:   bib/sudderth08describing.txt
+#	new file:   documents/stat100b_poisson_gamma.pdf
+#	new file:   plugins/mathjax/mathjax.cdn.tid
+#	new file:   plugins/mathjax/mathjax.js
+#	new file:   plugins/mathjax/plugin.info
+#	new file:   tiddlers/$__DefaultTiddlers.tid
+#	new file:   tiddlers/$__SiteSubtitle.tid
+#	new file:   tiddlers/$__SiteTitle.tid
+#	new file:   tiddlers/$__config_CodeMirror.tid
+#	new file:   tiddlers/$__config_PageControlButtons_Visibility_$__core_ui_Buttons_import.tid
+#	new file:   tiddlers/$__config_PageControlButtons_Visibility_$__core_ui_Buttons_tag-manager.tid
+#	new file:   tiddlers/$__config_Plugins_Disabled_$__plugins_tiddlywiki_highlight.tid
+#	new file:   tiddlers/$__config_ViewToolbarButtons_Visibility_$__core_ui_Buttons_more-tiddler-actions.tid
+#	new file:   tiddlers/$__plugins_tiddlywiki_highlight_highlight.css.tid
+#	new file:   tiddlers/$__theme.tid
+#	new file:   tiddlers/$__themes_tiddlywiki_vanilla_metrics_fontsize.tid
+#	new file:   tiddlers/$__themes_tiddlywiki_vanilla_metrics_sidebarbreakpoint.tid
+#	new file:   tiddlers/$__themes_tiddlywiki_vanilla_metrics_storyleft.tid
+#	new file:   tiddlers/$__themes_tiddlywiki_vanilla_metrics_storyright.tid
+#	new file:   tiddlers/$__themes_tiddlywiki_vanilla_metrics_storywidth.tid
+#	new file:   tiddlers/$__themes_tiddlywiki_vanilla_metrics_tiddlerwidth.tid
+#	new file:   tiddlers/1.3.5 Maximum likelihood estimation.tid
+#	new file:   tiddlers/10.1 Variational Inference.tid
+#	new file:   tiddlers/10.2 Variational Mixture of Gaussians.tid
+#	new file:   tiddlers/2.4 Two optimalities_ minimaxity and admissibility.tid
+#	new file:   tiddlers/2.5.2 The absolute error loss.tid
+#	new file:   tiddlers/4clojure.png.tid
+#	new file:   tiddlers/4clojure.tid
+#	new file:   tiddlers/5.2.6 Pseudo-Bayes factors.tid
+#	new file:   tiddlers/5.3.1 UMP and UMPU tests.tid
+#	new file:   tiddlers/5.3.2 Least favorable prior distributions.tid
+#	new file:   tiddlers/6 Bayesian Calculations.tid
+#	new file:   tiddlers/8.2 Admissibility of Bayes estimators.tid
+#	new file:   tiddlers/ASP Programming.tid
+#	new file:   tiddlers/ASP Theory 3.tid
+#	new file:   tiddlers/Accoustic Saliency Summary.tid
+#	new file:   tiddlers/Akaike's information criterion.tid
+#	new file:   tiddlers/Albums.tid
+#	new file:   tiddlers/Algebraic Geometry.tid
+#	new file:   tiddlers/Approximating KL between GMMs.tid
+#	new file:   tiddlers/Arch Utils.tid
+#	new file:   tiddlers/Audio Signal Processing for Music Applications.tid
+#	new file:   tiddlers/Audio Signal Processing.tid
+#	new file:   tiddlers/BIC Changepoint.tid
+#	new file:   tiddlers/Band-pass Filter.tid
+#	new file:   tiddlers/Baum-Welch.tid
+#	new file:   tiddlers/Bayesian GMM.tid
+#	new file:   tiddlers/Bayesian information criterion.tid
+#	new file:   tiddlers/CRBM for audio.tid
+#	new file:   tiddlers/Changepoint algorithms.tid
+#	new file:   tiddlers/Chicago Cubs.tid
+#	new file:   tiddlers/Code.tid
+#	new file:   tiddlers/CodeMirror.tid
+#	new file:   tiddlers/Codebook mapping method for VC.tid
+#	new file:   tiddlers/Compojure Address Book.tid
+#	new file:   tiddlers/Conjugate Prior.tid
+#	new file:   tiddlers/Constant-Q Filtering.tid
+#	new file:   tiddlers/Contrasting AIC and BIC.tid
+#	new file:   tiddlers/Convolutional Networks.tid
+#	new file:   tiddlers/Deep Learning Bib.tid
+#	new file:   tiddlers/Dirichlet Process Mixtures.tid
+#	new file:   tiddlers/Dirichlet-multinomial distribution.tid
+#	new file:   tiddlers/Draft of 'CRBM for audio'(STAN-PC--stan--2015-04-17-15,03,28).tid
+#	new file:   tiddlers/Draft of 'CRBM for audio'(STAN-PC--stan--2015-04-17-15,03,33).tid
+#	new file:   tiddlers/Draft of 'CRBM for audio'(STAN-PC--stan--2015-04-17-15,03,34).tid
+#	new file:   tiddlers/Editor Shortcuts.tid
+#	new file:   tiddlers/Emotion Code (Chen Li).tid
+#	new file:   tiddlers/Emotional Speaker Recognition Thesis.tid
+#	new file:   tiddlers/Experiments.tid
+#	new file:   tiddlers/Exponential Family.tid
+#	new file:   tiddlers/Feature Extraction.tid
+#	new file:   tiddlers/Festival.tid
+#	new file:   tiddlers/Filter Bank.tid
+#	new file:   tiddlers/Fisher information metric.tid
+#	new file:   tiddlers/Fourier Transform vs Wavelet Transform.tid
+#	new file:   tiddlers/GLR Changepoint.tid
+#	new file:   tiddlers/GMM for VC.tid
+#	new file:   tiddlers/Gaussian process modulated renewal processes.tid
+#	new file:   tiddlers/Gaussian.tid
+#	new file:   tiddlers/Geometry of exponential families.tid
+#	new file:   tiddlers/Graphical Model.tid
+#	new file:   tiddlers/Group Invariant Scattering.tid
+#	new file:   tiddlers/HDP-HMM Diarization.tid
+#	new file:   tiddlers/HTS.tid
+#	new file:   tiddlers/Hammersley-Clifford Theorem.tid
+#	new file:   tiddlers/Highlight.tid
+#	new file:   tiddlers/Homogeneous Poisson Process.tid
+#	new file:   tiddlers/IFIP IIP.tid
+#	new file:   tiddlers/Implementing Diarization.tid
+#	new file:   tiddlers/Inequalities.tid
+#	new file:   tiddlers/JavaScript.tid
+#	new file:   tiddlers/KL Changepoint.tid
+#	new file:   tiddlers/KL-Based Changepoint.tid
+#	new file:   tiddlers/Kullback-Leibler divergence.tid
+#	new file:   tiddlers/LaTeX Snippets.tid
+#	new file:   tiddlers/LaTeX.tid
+#	new file:   tiddlers/Languages.tid
+#	new file:   tiddlers/Laplace's Method.tid
+#	new file:   tiddlers/Learn X in Y Minutes.tid
+#	new file:   tiddlers/Learn clojure in Y Minutes.tid
+#	new file:   tiddlers/Learn javascript in Y Minutes.tid
+#	new file:   tiddlers/Locally Linear Embedding.tid
+#	new file:   tiddlers/MATLAB Snippets.tid
+#	new file:   tiddlers/MATLAB.tid
+#	new file:   tiddlers/MathJax Plugin.tid
+#	new file:   tiddlers/MathJax.tid
+#	new file:   tiddlers/Maximum likelihood transformations for VC.tid
+#	new file:   tiddlers/Model Selection.tid
+#	new file:   tiddlers/Model selection and multimodel inference.tid
+#	new file:   tiddlers/Mondrian forests.tid
+#	new file:   tiddlers/Mondrian process.tid
+#	new file:   tiddlers/NIPS.tid
+#	new file:   tiddlers/Neuromorphic Cognitive Computing.tid
+#	new file:   tiddlers/Neyman-Pearson lemma.tid
+#	new file:   tiddlers/Nonparametric Bayes Bib.tid
+#	new file:   tiddlers/Nonparametric Bayes.tid
+#	new file:   tiddlers/Open Courses.tid
+#	new file:   tiddlers/Open-source.tid
+#	new file:   tiddlers/Org-mode.tid
+#	new file:   tiddlers/Outlier Detection.tid
+#	new file:   tiddlers/Outlier.tid
+#	new file:   tiddlers/Overtone.tid
+#	new file:   tiddlers/Papers.tid
+#	new file:   tiddlers/Poisson Distribution.tid
+#	new file:   tiddlers/Principle of maximum entropy.tid
+#	new file:   tiddlers/Prior Classes.tid
+#	new file:   tiddlers/Probability theory.tid
+#	new file:   tiddlers/Programming category.tid
+#	new file:   tiddlers/Python Snippets.tid
+#	new file:   tiddlers/Python virtualenv.tid
+#	new file:   tiddlers/Python.tid
+#	new file:   tiddlers/RBF Nerwork.tid
+#	new file:   tiddlers/Random forest.tid
+#	new file:   tiddlers/Rao-Blackwell Theorem.tid
+#	new file:   tiddlers/Re-Frame.tid
+#	new file:   tiddlers/Read.tid
+#	new file:   tiddlers/Reagent.tid
+#	new file:   tiddlers/Renewal Processes.tid
+#	new file:   tiddlers/Resources.tid
+#	new file:   tiddlers/SAHD.tid
+#	new file:   tiddlers/ScatNet Code.tid
+#	new file:   tiddlers/Scattering Representation for Recognition.tid
+#	new file:   tiddlers/Scattering Representation of Modulated Sounds.tid
+#	new file:   tiddlers/Scattering Representation.tid
+#	new file:   tiddlers/Speaker diarization literatures.tid
+#	new file:   tiddlers/Speech Synthesis.tid
+#	new file:   tiddlers/Speech.tid
+#	new file:   tiddlers/Statistical manifold.tid
+#	new file:   tiddlers/Statistics.tid
+#	new file:   tiddlers/Stirling's Formula.tid
+#	new file:   tiddlers/Sytle & Content.tid
+#	new file:   tiddlers/Talks.tid
+#	new file:   tiddlers/Tampa Bay.tid
+#	new file:   tiddlers/TiddlyWiki.tid
+#	new file:   tiddlers/Tools.tid
+#	new file:   tiddlers/Transducer.tid
+#	new file:   tiddlers/Transformed DP.tid
+#	new file:   tiddlers/Tutorials.tid
+#	new file:   tiddlers/VC with factorised HMM-TTS models.tid
+#	new file:   tiddlers/Variable Elimination Algorithm.tid
+#	new file:   tiddlers/Voice Conversion.tid
+#	new file:   tiddlers/Wavelet Transform.tid
+#	new file:   tiddlers/Web Design.tid
+#	new file:   tiddlers/White Sox.tid
+#	new file:   tiddlers/Whitening transformation.tid
+#	new file:   tiddlers/WikiLinks.tid
+#	new file:   tiddlers/WikiText.tid
+#	new file:   tiddlers/casella1996rao.txt.tid
+#	new file:   tiddlers/clojure Snippets.tid
+#	new file:   tiddlers/clojure.tid
+#	new file:   tiddlers/harati12applications.txt.tid
+#	new file:   tiddlers/lee09unsupervised.txt.tid
+#	new file:   tiddlers/rosen2004author.txt.tid
+#	new file:   tiddlers/sudderth08describing.txt.tid
+#	new file:   tiddlers/voicebox.tid
+#	new file:   tiddlywiki.info
+#
+# Untracked files:
+#	nmez0ctu.ldv.txt
+#
+

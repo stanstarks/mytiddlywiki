@@ -1,0 +1,7 @@
+created: 20150316045415915
+modified: 20150413064856848
+title: Deep Learning Bib
+type: text/vnd.tiddlywiki
+
+* Wang W, Arora R, Livescu K, et al. UNSUPERVISED LEARNING OF ACOUSTIC FEATURES VIA DEEP CANONICAL CORRELATION ANALYSIS[J].
+* Lee H, Pham P, Largman Y, et al. [[Unsupervised feature learning for audio classification using convolutional deep belief networks|CRBM for audio]][C]. Advances in neural information processing systems. 2009: 1096-1104. ([[BibTeX|lee09unsupervised.txt]])

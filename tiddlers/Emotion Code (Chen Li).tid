@@ -1,0 +1,19 @@
+created: 20141014013416083
+modified: 20141014022953518
+tags: Code
+title: Emotion Code (Chen Li)
+type: text/vnd.tiddlywiki
+
+RBFNN_Weight.m
+
+*Set parameters:
+** path
+** MFCCDim
+* initialization
+* calls rbfre
+
+rbfre
+
+questions
+
+* var `net` set by `newrb()` cannot be found.

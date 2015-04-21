@@ -1,0 +1,7 @@
+created: 20150417065546877
+modified: 20150417065629945
+tags: Speech Open-source
+title: voicebox
+type: text/vnd.tiddlywiki
+
+call `readsph(fname_wav)` to read SPHRER .wav files

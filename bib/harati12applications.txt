@@ -1,0 +1,8 @@
+@inproceedings{harati2012applications,
+  title={Applications of Dirichlet Process Mixtures to speaker adaptation},
+  author={Harati Nejad Torbati, AH and Picone, Joe and Sobel, Marc},
+  booktitle={Acoustics, Speech and Signal Processing (ICASSP), 2012 IEEE International Conference on},
+  pages={4321--4324},
+  year={2012},
+  organization={IEEE}
+}

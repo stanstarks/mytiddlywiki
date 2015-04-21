@@ -1,0 +1,22 @@
+color: #006ad5
+created: 20141014071620480
+modified: 20141218070644293
+title: Speech
+type: text/vnd.tiddlywiki
+
+!! TODO
+!!! Experiments
+
+# Metric based classification
+#* Theory: [[Accoustic Saliency Summary]]
+#* Coding: [[Implementing Diarization]]
+# LLE
+#* Previous work: [[Emotion Code (Chen Li)]]
+# ScatNet
+#* [[Code reading|ScatNet Code]]
+
+!! Wiki
+!!! HMM
+[[Baum-Welch]]
+
+[[HDP-HMM Diarization]]

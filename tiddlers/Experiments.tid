@@ -1,0 +1,36 @@
+created: 20150309034339925
+modified: 20150417065319835
+title: Experiments
+type: text/vnd.tiddlywiki
+
+TODO: get data and test ubm method
+
+! Metric classification
+!! Data set
+68class.mat: 
+
+68class-no-skip.mat:
+
+!! Experiments
+Sample-wise comparison
+
+!!! Ensemble
+There are always cases that no methods could get it right.
+
+! Nonparametric
+!! Gaussian
+I2GMM
+
+! Theoretical
+!! Prior
+
+!! LLE
+Device a new metric containing the constraints
+
+!! Scattering
+10 class: 30+% error rate
+
+! Datasets
+* [[UCI Machine Learning Repository|http://archive.ics.uci.edu/ml/]]: British English vowels.
+* TIMIT
+* CMU HTS

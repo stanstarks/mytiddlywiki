@@ -1,0 +1,29 @@
+created: 20150413052032388
+modified: 20150413062923019
+tags: Speech
+title: Sytle & Content
+type: text/vnd.tiddlywiki
+
+! MIT 1999 paper
+A general framework for learning to solve two-factor tasks using bilinear models, which provide sufficiently expressive representations of factor interactions but can nontheless be fit to data using efficient algorithms based on the singular value decomposition and expectation-maximization.
+
+!! Bilinear models
+!!! Symmetric model
+$$
+y_k^{sc} = \sum_{i=1}^I\sum_{j=1}^Jw_{ijk}a_i^sb_j^c.
+$$
+$a_i^s$ and $b_j^c$ are style and content parameters, $y_k^{sc}$ is a $K$-dimensional observation vector in style $s$ and content class $c$.
+
+!!! Asymmetric model
+$$
+a_{jk}^s = \sum_iw_{ijk}^sa_i^s,
+$$
+giving
+$$
+y_k^{sc} = \sum_{j}a_{jk}^sb_j^c.
+$$
+
+!! Model fitting
+This is solved by SVD.
+
+

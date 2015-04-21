@@ -1,0 +1,11 @@
+created: 20141015015802430
+modified: 20141016014709805
+tags: ANN
+title: Convolutional Networks
+type: text/vnd.tiddlywiki
+
+Convolutional Networks are a specific class of neural networks which obtain invariant signal representations by cascading trainable filter banks with non-linearities and subsampling and pooling operators. They have been successfully applied to a variety of image and audio recognition tasks. Each layer of the network is connected to the previous one by establishing "connections" or filters, whose output is processed with a non-linearity such as sigmoids or rectifications. The spatial localization is progressively lost by successively "pooling", or subsampling, the resulting feature maps with local averages or general $L^p$ norms.
+
+Convolutional network architectures were originally learnt over a collection of labeled examples, using a backpropagation algorithm, which optimizes a classification error loss function using a gradient descent across the network. As opposed to general neural networks, convolutional networks incoporate a translation invariance prior, which greatly reduces the number of parameters to learn and hence its efficiency in a number of recognition tasks.
+
+It can be trained with unsupervised data with [[sparse autoencoders|Sparse Autoencoder]].

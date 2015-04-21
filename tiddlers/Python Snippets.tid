@@ -1,0 +1,12 @@
+created: 20150312095330467
+modified: 20150312095531076
+tags: Python
+title: Python Snippets
+type: text/vnd.tiddlywiki
+
+Display a number with leading zeros
+
+```python
+"%02d" % (1,)
+'{num:02d}'.format(num=i)
+```
